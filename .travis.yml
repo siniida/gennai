@@ -1,0 +1,10 @@
+language: java
+script:
+  - cd gungnir
+  - mvn clean package
+jdk:
+  - oraclejdk7
+notifications:
+  emails: sinpukyu@gmail.com
+  on_success: always
+  on_failure: always

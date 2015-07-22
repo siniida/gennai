@@ -1,4 +1,5 @@
 ![画像](http://pages.genn.ai/img/gennai.png "Image")
+[![Build Status](https://travis-ci.org/siniida/gennai.svg?branch=master)](https://travis-ci.org/siniida/gennai)
 
 ## Overview
 
